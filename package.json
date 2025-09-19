@@ -1,6 +1,6 @@
 {
   "private": true,
   "devDependencies": {
-    "tslint": "5.20.1"
+    "tslint": "6.1.3"
   }
 }

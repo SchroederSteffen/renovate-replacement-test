@@ -4,8 +4,7 @@
   "packageRules": [
     {
       "matchPackageNames": ["/tslint/"],
-      "replacementName": "eslint",
-      "replacementVersion": "9"
+      "replacementName": "eslint"
     }
   ]
 }
